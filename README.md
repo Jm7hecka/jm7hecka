@@ -36,7 +36,7 @@
         i.jm79
     </li>
     <li>
-      <a href='discordapp.com/users/Jm7isjm9#7070'>
+      <a href='http://discordapp.com/users/Jm7isjm9#7070'>
         <img src='https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png' width='15'>
         Jm7isjm9#7070
     </li>
