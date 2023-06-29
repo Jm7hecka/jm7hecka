@@ -1,15 +1,44 @@
-### HeckA JM7
-Bonjour 
-- 16y    🇭🇰 --> 🇬🇧
-- GIRL FRIEND: 404 not found 😿
-- BRAIN: ASIAN 🧠
-- PROGRAM SKILL: INDIAN
-- LANGUAGE:
-  - PYTHON
-  - C##
-  - HTML
-  - JAVASCRIPT
-  - PHP
-  - SWIFT(IN PROCESS)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jm7hecka&theme=highcontrast)](https://git.io/streak-stats)
+<div align='center'>
+  <h2>HeckA JM7</h2>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jm7hecka&theme=highcontrast"/></a>
+</div>
+<div>
+  <h3><img src='https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true' width='30' /> Bonjour</h3>
+  <ul>
+    <li> 16y    🇭🇰 --> 🇬🇧 </li>
+    <li> GIRL FRIEND: 404 not found 😿 </li>
+    <li> BRAIN: ASIAN 🧠 </li>
+    <li> PROGRAM SKILL: INDIAN </li>
+    <li> LANGUAGE: 
+      <ul>
+        <li> PYTHON </li>
+        <li> C## </li>
+        <li> HTML </li>
+        <li> JAVASCRIPT </li>
+        <li> PHP </li>
+        <li> SWIFT(IN PROCESS) </li>
+      </ul>
+  </ul>
+</div>
+<div>
+  <h3> 📫 Contact me </h3>
+  <ul>
+    <li>📞 (not telling u)</li>
+    <li>
+      <a href='https://www.instagram.com/isaac_oldton/'>
+        <img src='https://brandpalettes.com/wp-content/uploads/2018/10/Instagram-Logo-300x300.png' width='15' />
+        isaac_oldton
+      </a>
+    </li>
+    <li>
+      <a href='https://t.snapchat.com/LA9lgtW3'>
+        <img src='https://seeklogo.com/images/S/snapchat-logo-F20CDB1199-seeklogo.com.png' width='15' />
+        i.jm79
+    </li>
+    <li>
+      <a href='discordapp.com/users/Jm7isjm9#7070'>
+        <img src='https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png' width='15'>
+        Jm7isjm9#7070
+    </li>
+</div>
+
