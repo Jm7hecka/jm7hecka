@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <p class='font-size-40 oswald'>HeckA JM7 </p>
+  <img src="https://i.imgflip.com/443119.png?a468864" />
 </div>
