@@ -1,9 +1,3 @@
 <div id="header" align="center">
-  <button onclick='showimg()'> CLICK ME </button>
-  <p id='word' style='font-size: 40; '></p>
+  <p id='word' style='font-size: 40; font-family: Courier;'>HeckA JM7</p>
 </div>
-<script>
-    function showimg(){
-      document.getElementById("word").innerHTML = "HeckA JM7";
-    }
-</script>
