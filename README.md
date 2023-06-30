@@ -1,6 +1,8 @@
+<div>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C015&vCenter=true&multiline=true&width=435&height=100&lines=%5Buser%5D+Hecka_JM7;%5Bsystem%5D+Bonjour%2C+programmers" alt="Typing SVG" /></a> 
+</div>
 <div align='center'>
-  <h2>HeckA JM7</h2>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jm7hecka&theme=highcontrast"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jm7hecka&theme=highcontrast" /></a>
 </div>
 <div>
   <h3><img src='https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true' width='30' /> Bonjour</h3>
